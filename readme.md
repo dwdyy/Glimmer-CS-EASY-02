@@ -137,13 +137,13 @@ P1.out
 P2.out
 
 ```
-3121112212212212112111211211212211
+3 1 1 2 2 1 2 1 1 2 1 2 2 1 1 2 2 1 1 2 2 1 1 2 2 1 1 2 1 1 1 1 1 2
 ```
 
 P3.out(感觉不太对劲)
 
 ```
-lgrmnimkeiharnetfo4e
+glimmerinheartnofear4dark
 ```
 
 Code:[P1](JosephusPart1/JosephusPart1.c) [P2](JosephusPart2/JosephusPart2.c) [P3](Part3/Part3.c)
