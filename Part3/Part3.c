@@ -10,7 +10,7 @@ int main()
     for(int i=1;i<=34;i++){
         int x;
         scanf("%d",&x);
-        if(x&1){
+        if(i&1){
             while(x-->0){
                 t[++top] = s[pos++];
             }
